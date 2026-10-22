@@ -1,0 +1,8 @@
+KODE     JENIS         JUDUL                      TAHUN  KELAYAKAN    STATUS    
+--------------------------------------------------------------------------------
+BK-002   BukuCetak     Basis Data Relasional       2021  Tidak layak  Tersedia  
+BK-001   BukuCetak     Java How to Program         2022  Layak        Dipinjam  
+BD-001   BerkasDigital Panduan Pemrograman Java    2024  Layak        Dipinjam  
+BD-002   BerkasDigital Jurnal Rekayasa Perangkat   2025  Layak        Tersedia  
+MJ-002   Majalah       Info Teknologi Edisi 87     2026  Layak        Dipinjam  
+MJ-001   Majalah       Info Teknologi Edisi 88     2026  Tidak layak  Tersedia  
